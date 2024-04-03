@@ -1,4 +1,11 @@
 # Superflat-Create-Modpack
+
+
+**NOTE**
+This github repository is ONLY for issues. Thanks!
+
+
+
 Since there aren't any good superflat create modpacks out there, I decided to make my own
 
 **INSTRUCTIONS**
